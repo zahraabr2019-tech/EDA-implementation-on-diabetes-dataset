@@ -63,4 +63,4 @@ pip install pandas numpy matplotlib seaborn
 
 ```
 
-Run the .ipynb notebook in Jupyter/Colab; a detailed academic report covering the full project pipeline (model choice, visualization, preprocessing, results) is also included.
+Run the .ipynb notebook in Jupyter/Colab; a detailed academic report covering the full project is also included.
